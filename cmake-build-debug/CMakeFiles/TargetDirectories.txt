@@ -1,0 +1,3 @@
+/home/jakubmotyka/CLionProjects/Lab3tank/cmake-build-debug/CMakeFiles/Lab3tank.dir
+/home/jakubmotyka/CLionProjects/Lab3tank/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jakubmotyka/CLionProjects/Lab3tank/cmake-build-debug/CMakeFiles/rebuild_cache.dir

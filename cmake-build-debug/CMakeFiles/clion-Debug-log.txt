@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/jakubmotyka/CLionProjects/Lab3tank Select CMakeLists.txt
